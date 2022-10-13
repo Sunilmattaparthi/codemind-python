@@ -1,4 +1,4 @@
-pi = 3.14
-r = int(float(input()))
-area = pi*r*r
+R=int(input())
+pi=3.14
+area=pi*R*R
 print("{:.2f}".format(area))
